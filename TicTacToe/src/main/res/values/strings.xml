@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="button_user">Player vs Player</string>
+    <string name="button_ai">Play against AI</string>
+    <string name="button_exit">Exit</string>
+    <string name="mode_user">Player vs Player</string>
+    <string name="mode_ai">Player vs AI</string>
+    <string name="result_user">User wins!</string>
+    <string name="result_ai">Computer wins!</string>
+    <string name="result_draw">Draw</string>
+    <string name="end_reset">Play Again</string>
+
+</resources>
